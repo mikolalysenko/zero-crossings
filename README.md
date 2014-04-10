@@ -8,7 +8,7 @@ Finds all zero crossings in a 1D ndarray assuming piecewise-linear interpolation
 var ndarray = require("ndarray")
 var zc = require("zero-crossings")
 
-var array = ndarray([1, -1, 0, 10, 5, -1])
+var array = ndarray([1, -1, 0, 10, 3, -1])
 
 console.log(zc(array))
 ```
@@ -16,6 +16,7 @@ console.log(zc(array))
 Output:
 
 ```
+[ 0.5, 2, 4.75 ]
 ```
 
 # Install
