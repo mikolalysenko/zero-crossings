@@ -1,13 +1,13 @@
 {
   "name": "zero-crossings",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Finds all zero crossings in a 1D ndarray",
   "main": "zc.js",
   "directories": {
     "test": "test"
   },
   "dependencies": {
-    "cwise-compiler": "^0.1.0"
+    "cwise-compiler": "^1.0.0"
   },
   "devDependencies": {
     "cwise-parser": "^0.0.1",
