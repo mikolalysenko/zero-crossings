@@ -6,9 +6,7 @@
   "directories": {
     "test": "test"
   },
-  "dependencies": {
-    "uniq": "^1.0.1"
-  },
+  "dependencies": {},
   "devDependencies": {
     "ndarray": "^1.0.11",
     "tape": "^2.12.3"
