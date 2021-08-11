@@ -7,7 +7,7 @@
     "test": "test"
   },
   "dependencies": {
-    "cwise-compiler": "^1.0.0"
+    "uniq": "^1.0.1"
   },
   "devDependencies": {
     "ndarray": "^1.0.11",
